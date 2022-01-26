@@ -1,2 +1,2 @@
-# atharvasreedhar.github.com
+# atharvasreedhar.github.io
 Website about Atharva Sreedhar
